@@ -4,7 +4,7 @@ class Root extends Component {
   render() {
     return (
       <div>
-        <Business />
+        
       </div>
     )
   }
